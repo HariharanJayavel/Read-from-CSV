@@ -30,7 +30,7 @@ print("Number of columns:",len(df.axes[1]))
 ```
 
 ## OUTPUT:
-![image](https://github.com/HariharanJayavel/Read-from-CSV/assets/144870546/d0bcd4d0-83ff-4bec-95be-92665f975346)
+![image](https://github.com/HariharanJayavel/Read-from-CSV/assets/144870546/19cec544-eacb-465a-b90d-49bf3ecf1578)
 
 ## RESULT:
 Thus a python program is written to read the contents of a CSV file
